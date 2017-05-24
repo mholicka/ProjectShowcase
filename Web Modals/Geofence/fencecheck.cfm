@@ -1,6 +1,4 @@
-<cfajaxproxy cfc="#application.propertyCFC#" jsclassname="propertyCFC">
-<cfajaxproxy cfc="#application.trackerCFC#" jsclassname="trackerCFC">
-<cfajaxproxy cfc="#application.miscCFC#" jsclassname="miscCFC">
+
 <!DOCTYPE html>
 <html>
     <head>

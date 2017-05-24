@@ -4,7 +4,7 @@
 
 Here are projects that I have worked on in the past. Please note that lines are removed in some files, and some project files cannot be added due to privacy. I would like to use this repo as a showcase of my coding, documentation and presentation. Below is a short description of each project located in this repo.
 
-### AgMonitor 
+## AgMonitor 
 
 - Done during my time at Agriculture and Agri-Foods Canada during Winter 2015/2016
 - Purpose was to perform data comparison on an in-house raster dataset of resolution 5m x 5m to the LANDSAT data with resolution of 30m x 30m.
@@ -12,7 +12,7 @@ Here are projects that I have worked on in the past. Please note that lines are 
 
 ## Route Optimizations
 
-- project done with members of the University of Waterloo Geospatial Club 
+- Project done with members of the University of Waterloo Geospatial Club 
 - Proved that with route optimizations, time and distance can be reduced by 55% on average in an area of Waterloo.
 - Presented at the 2016 IALEP conferenece.
 
