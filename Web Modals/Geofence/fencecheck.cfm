@@ -36,7 +36,6 @@
                 </div>
             </div>
         </div>
-        <script  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAl8lwM6B2AZsYwoOU1QLCz3Eqgbsub1oM&?v=3&libraries=drawing,geometry"></script>
         <script sync src="js/refractored/fencecheckvars.js"></script>
         <script sync type="text/javascript" src="js/refractored/main_map.js"></script>
         <script sync type="text/javascript" src="js/refractored/posting_geoJSON.js"></script>
